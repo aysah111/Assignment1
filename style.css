@@ -90,5 +90,75 @@ header{
     background-color: #F4F4F4;
     padding: 20px;
     text-align: center;
-    
+
+}
+.hotDeal{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 150px 0px 150px;
+}
+.hotDeal h2{
+    font-size: 40px;
+}
+.hotDeal p{
+    width: 400px;
+    margin-top: 20px;
+    text-align: center;
+}
+.text-off{
+    color: #E55473;
+}
+.Instagrams{
+    margin: 100px 0 100px 0;
+}
+.Instagram-header{
+    text-align: center;
+}
+.Instagrams-img{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 150px 0px 150px;
+    margin-top: 30px;
+
+}
+.Instagrams-img img{
+    width: 250px;
+}
+
+.GetThe{
+    background-image: url('./FlowerImg//Rectangle\ 9.png');
+    width: 1000px;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.GetThe h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.GetThe p{
+    margin-bottom: 10px;
+}
+.getMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0 100px 0;
+}
+.input-text{
+    padding: 7px  50px;
+    border: none;
+    margin: 20px 0;
+}
+.input-button{
+    padding: 7px  20px;
+    border: none;
+    background: #E55473;
+    color: #D9EFF1;
 }
