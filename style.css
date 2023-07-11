@@ -162,3 +162,32 @@ header{
     background: #E55473;
     color: #D9EFF1;
 }
+.footer-header-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-header{
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+.extra-text{
+    color: #E55473;
+}
+footer{
+    background-color: #111010;
+    padding: 100px 0 100px 0;
+}
+.footer-h p{
+    width: 600px;
+    text-align: center;
+    margin-top: 20px;
+    color: #c1bdbd;
+}
+
+.footer-p{
+    color: #3b3a3a;
+    text-align: center;
+    margin-top: 20px;
+}
