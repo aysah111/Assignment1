@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FCEEF1;
+    padding: 0px 150px 0px 150px;
+}
+.banner-img{
+    width: 400px;
+}
+.banner-header{
+    font-size: 50px;
+    width: 500px; margin-bottom: 10px;
+}
+.banner-para{
+    width: 500px;
+    margin-bottom: 20px;
+}
+.banner-btn{
+    background-color: #E55473;
+    color: aliceblue;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+
+/* Our Featured Flowers */
+.our{
+    display: flex;
+    justify-content: center;
+}
+.Our-heading{
+    text-align: center;
+    margin-top: 150px;
+}
+.Our-image{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 150px 0px 150px;
+}
+.Our-heading h2{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.Our-heading p{
+    width: 500px;
+    text-align: center;
+}
+.Our-image{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding-left: 200px; 
+    padding-right: 200px; 
+}
+.our-image-1 img{
+    background-color:#F2DEE7 ;
+    width: 300px;
+    padding: 30px;
+    border-radius: 150px 150px 0 0 ;
+    width: 220px; 
+    height: 300px;
+    
+}
+.our-image-2 img{
+    background-color:#D9EFF1 ;
+    width: 200px;
+    padding: 30px;
+    border-radius: 150px 150px 0 0 ;
+    
+}
+.our-image-3 img{
+    background-color:#D9EFF1;
+    width:200px;
+    padding: 30px;
+    border-radius: 150px 150px 0 0 ;
+}
